@@ -6,11 +6,11 @@ My name is Mario, im from Venezuela but currently living in Spain, im a data sci
 * I studied in a data bootcamp called "the bridge", i had a really good time with them so if u live in Spain and you are interested in this world, i will let you their [link](https://thebridge.tech/)
 
 ### Skills 
-  - python and sql
-  - data cleaning and creating
-  - visualisation 
-  - machine learning
-  - deep learning
+  - Python and SQL
+  - Data cleaning and creating
+  - Visualisation 
+  - Machine learning
+  - Deep learning
   - AMW and CLOUD
   - Web scraping
   - Use and creation of API"s

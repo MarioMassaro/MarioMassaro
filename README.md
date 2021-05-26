@@ -14,6 +14,7 @@ My name is Mario, im from Venezuela but currently living in Spain, im a data sci
   - AMW and CLOUD
   - Web scraping
   - Use and creation of API"s
+  - Power BI
   
 
 
